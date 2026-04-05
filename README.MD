@@ -46,8 +46,7 @@ Set trees to FANCY in OptiFine settings. Also set smooth lighting to maximum and
 
 Connect with us on social media! Regular updates are announced here.
 
-+ Instagram (https://www.instagram.com/compbuildredux/)
-+ Twitter (https://twitter.com/compbuildredux)
++ Instagram (https://www.instagram.com/compbuildstudio/)
 + Discord (https://discord.gg/Kw7stMa)
 
 ## How can I view all the stuff in Compbuild Textures?
@@ -58,7 +57,7 @@ We also have a pack reference world and schematic that is available to download 
 
 ## Want to gain early access to the new pack releases?
 
-Support us on Patreon! Becoming a patron allows you to gain access to Compbuild Textures releases before they release publicly! (https://www.patreon.com/compbuildredux)
+Support us on Patreon! Becoming a patron allows you to gain access to Compbuild Textures releases before they release publicly! (https://www.patreon.com/compbuild)
 
 ![image](https://user-images.githubusercontent.com/59810988/216656890-f2467f8f-c116-4ccd-b526-bb2827919694.png)
 
